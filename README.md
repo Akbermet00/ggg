@@ -1,6 +1,6 @@
 # Умный гардероб
 Фото одежды → база данных → образы и тренды со ссылками на магазины.
-
+https://claude.ai/artifact/Fi61hxAaHnqf3i6rZsbKmm
 ## Запуск
     npm install
     npm start        # http://localhost:3000
